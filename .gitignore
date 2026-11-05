@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+#Data and models (large files)
+data/
+models/
+*.pth
+
+#Python and Jupyter temporary files
+__pycache__/
+.ipynb _checkpoints/
